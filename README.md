@@ -1,7 +1,7 @@
-# DebugUtils(Release에서 다운받으세요!)
+# DebugUtils
 디버그를 할 때 글씨가 전부 하얀색이여서 중요한 정보를 골라내기 힘들어서 직접 디버깅 함수를 업그레이드 해봤습니다.
 
-사용방법은 간단합니다
+사용방법은 간단합니다.
 
 # LogColor
 * 전체적인 Text의 색을 바꿔줍니다.
@@ -40,3 +40,19 @@
 
 
 추가적인 기능이 생각나면 추가하러오겠습니다!
+# 패치 노트
+- 2023.10.19
+
+Debug Color Preset을 추가하였습니다.
+
+![image](https://github.com/KimJinWooDa/DebugUtils/assets/76438011/01e140ad-0a70-4015-b02c-46b45dc2a7d3)
+
+사용방법은 아래와 같습니다.
+(하이러키창에 Debug Preset을 미리 만드셔야 합니다)
+
+![image](https://github.com/KimJinWooDa/DebugUtils/assets/76438011/49977936-bb12-43a4-a0db-d54cc7bf0509)
+
+
+![image](https://github.com/KimJinWooDa/DebugUtils/assets/76438011/4a094630-e02e-4020-aa8c-90c1b538bae6)
+
+Color Preset의 경우 Scriptable Object로 관리합니다.
