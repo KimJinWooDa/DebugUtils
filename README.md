@@ -48,10 +48,11 @@
 
 Debug Color Preset을 추가하였습니다.
 
-![image](https://github.com/KimJinWooDa/DebugUtils/assets/76438011/01e140ad-0a70-4015-b02c-46b45dc2a7d3)
+![image](https://github.com/KimJinWooDa/DebugUtils/assets/76438011/230e343d-22c6-4b82-bce7-9084a992acfc)
+
 
 사용방법은 아래와 같습니다.
-(하이러키창에 Debug Preset을 미리 만드셔야 합니다)
+(하이러키창에 Debug Preset Container을 미리 만드셔야 합니다)
 
 ![image](https://github.com/KimJinWooDa/DebugUtils/assets/76438011/49977936-bb12-43a4-a0db-d54cc7bf0509)
 
