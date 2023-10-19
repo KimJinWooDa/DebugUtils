@@ -43,6 +43,9 @@
 # 패치 노트
 - 2023.10.19
 
+유니티에 내장되어 있는 Color만을 사용해서 Debug을 출력하기에 Color 종류가 부족해지는 경우가 생깁니다.
+프리셋을 만들어 사용할 수 있는 Color종류의 제한을 풀었습니다.
+
 Debug Color Preset을 추가하였습니다.
 
 ![image](https://github.com/KimJinWooDa/DebugUtils/assets/76438011/01e140ad-0a70-4015-b02c-46b45dc2a7d3)
