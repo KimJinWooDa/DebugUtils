@@ -1,9 +1,9 @@
 using System.Diagnostics;
 using UnityEngine;
 
-namespace DebugHelper
+namespace DebugUtils
 {
-    public static class Debug
+    public static class DebugUtils
     {
         private static string BuildPrefix(int? prefixNumber, string tag, bool showTimestamp)
         {
