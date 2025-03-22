@@ -12,5 +12,12 @@
     "debug",
     "logging",
     "unity"
+  ],
+  "samples": [
+    {
+      "displayName": "DebugUtils Sample",
+      "description": "샘플 DebugUtils 코드",
+      "path": "Samples~"
+    }
   ]
 }
