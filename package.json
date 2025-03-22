@@ -1,8 +1,8 @@
 {
   "name": "com.kimjinwooda.debugutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "DebugUtils",
-  "description": "Unity 에디터에서만 사용할 수 있는 유틸도구입니다.",
+  "description": "에디터에서만 사용할 수 있는 유틸도구입니다.",
   "unity": "2019.4",
   "author": {
     "name": "jinwoo",
