@@ -1,9 +1,9 @@
 {
-  "name": "com.KimJinWooDa.debugUtils",
+  "name": "com.kimjinwooda.debugutils",
   "version": "1.0.0",
   "displayName": "디버그 색깔 놀이",
   "description": "Unity 에디터에서 사용할 수 있는 Color Debug Log Class입니다.",
-  "unity": "6000.0.40f1",
+  "unity": "2019.4",
   "author": {
     "name": "jinwoo",
     "url": "https://github.com/KimJinWooDa/DebugUtils"
