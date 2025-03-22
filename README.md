@@ -14,7 +14,7 @@
 2. **Window > Package Manager**를 선택합니다.
 3. 좌측 상단의 **"+" 버튼**을 클릭한 후 "Add package from git URL..."를 선택합니다.
 4. 아래 URL 형식으로 입력합니다:
-https://github.com/KimJinWooDa/DebugUtils.git?path=/com.kimjinwooda.debugutils
+https://github.com/KimJinWooDa/DebugUtils.git
 
 5. **Add** 버튼을 클릭하면 Unity가 자동으로 패키지를 다운로드하고 설치합니다.
 
